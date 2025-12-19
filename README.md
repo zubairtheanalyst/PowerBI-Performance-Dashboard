@@ -6,6 +6,14 @@ The dashboard focuses on **executive KPIs**, **operational insights**, and **dri
 
 ---
 
+## 🎥 Dashboard Walkthrough (4-Minute Demo)
+
+A short walkthrough demonstrating dashboard navigation, slicers, focus mode, and key insights across all pages.
+
+📽️ **[Watch the dashboard walkthrough](video/dashboard_walkthrough.mp4)**
+
+---
+
 ## 🎯 Key Features
 
 - Dynamic KPI cards with **Current Year vs Previous Year**
@@ -27,8 +35,8 @@ High-level business snapshot with:
 - Top brands, channels, categories, and customer types (B2B / B2C)
 
 ![Overview](assets/overview.png)
-![Overview](assets/overview_slicers_on.png)
-![Overview](assets/overview_focus_mode.png)
+![Overview – Slicer Panel Expanded](assets/overview_slicers_on.png)
+![Overview – KPI Focus Mode](assets/overview_focus_mode.png)
 
 ---
 
@@ -78,14 +86,6 @@ Return behavior and quality insights:
 
 ---
 
-## 🎥 Dashboard Walkthrough (Video)
-
-A short walkthrough demonstrating navigation, interactions, focus mode, and insights:
-
-📽️ **[Watch the dashboard walkthrough](video/dashboard_walkthrough.mp4)**
-
----
-
 ## 🛠 Tools & Technologies
 
 - **Power BI**
@@ -104,12 +104,12 @@ A short walkthrough demonstrating navigation, interactions, focus mode, and insi
 ## 🚀 How to Use
 
 1. Download the `.pbix` file  
-2. Open in **Power BI Desktop**
-3. Explore using slicers, navigation, and focus mode
+2. Open it in **Power BI Desktop**
+3. Explore the dashboard using slicers, navigation, and focus mode
 
 ---
 
 ## 📌 Notes
 
-- Data is for demonstration purposes
+- Data is for demonstration purposes only
 - Dashboard design emphasizes **clarity, performance, and usability**
