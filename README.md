@@ -27,6 +27,8 @@ High-level business snapshot with:
 - Top brands, channels, categories, and customer types (B2B / B2C)
 
 ![Overview](assets/overview.png)
+![Overview](assets/overview_slicers_on.png)
+![Overview](assets/overview_focus_mode.png)
 
 ---
 
