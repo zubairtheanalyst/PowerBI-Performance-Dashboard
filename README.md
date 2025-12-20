@@ -35,8 +35,6 @@ High-level business snapshot with:
 - Top brands, channels, categories, and customer types (B2B / B2C)
 
 ![Overview](assets/overview.png)
-![Overview – Slicer Panel Expanded](assets/overview_slicers_on.png)
-![Overview – KPI Focus Mode](assets/overview_focus_mode.png)
 
 ---
 
