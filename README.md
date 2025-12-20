@@ -6,7 +6,7 @@ The dashboard focuses on **executive KPIs**, **operational insights**, and **dri
 
 ---
 
-## 🎥 Dashboard Walkthrough (4-Minute Demo)
+## 🎥 Dashboard Walkthrough (Demo)
 
 A short walkthrough demonstrating dashboard navigation, slicers, focus mode, and key insights across all pages.
 
